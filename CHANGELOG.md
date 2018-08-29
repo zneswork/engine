@@ -5,6 +5,8 @@ information on the list of deprecated flags and APIs please have a look at
 https://docs.docker.com/engine/deprecated/ where target removal dates can also
 be found.
 
+## 17.03.3-ce (2018-08-30)
+
 ## 17.03.2-ce (2017-05-29)
 
 ### Networking
